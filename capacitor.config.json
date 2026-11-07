@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.colormatchstudio",
+  "appName": "Color Match Studio",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
